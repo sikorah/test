@@ -5,6 +5,8 @@
 #include "servo.h"
 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 
+#gittest
+
 int main (){
 	KeyboardInit();	
 	ServoInit(100);
